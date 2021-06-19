@@ -22,8 +22,8 @@ export default function NavBar() {
                     
                 </nav>
                 <div className='inline-flex py-3 px-3 my-6'>
-                    <SocialIcon url="https://www.linkedin.com/in/kyle-euman-b51859203/" classname='mr-4' target='_blank' fgcolor='#fff' style={{height: 35, width: 35}} />
-                <SocialIcon url="https://github.com/KyleEuman" classname='mr-4' target='_blank' fgcolor='#ffff' style={{height: 35, width: 35}} />
+                    <SocialIcon url="https://www.linkedin.com/in/kyle-euman-b51859203/" className='mr-4' target='_blank' fgcolor='#fff' style={{height: 35, width: 35}} />
+                <SocialIcon url="https://github.com/KyleEuman" className='mr-4' target='_blank' fgcolor='#fff' style={{height: 35, width: 35}} />
                 </div> 
             </div>
         </header>
